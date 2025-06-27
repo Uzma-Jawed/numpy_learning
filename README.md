@@ -15,7 +15,8 @@ This repository contains my practice code and notebook for learning **NumPy**, t
 
 Click below to open the notebook directly in Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Uzma-Jawed/numpy_learning/blob/main/numpy_course_kaggle_colab.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Uzma-Jawed/numpy_learning/blob/main/numpy_course_kaggle.ipynb)
+
 
 ---
 
